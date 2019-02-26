@@ -1,6 +1,9 @@
+<?php
+require_once 'Form.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
-<form method="POST" action="https://spotid-app.com/form-classique">
+<form method="POST" action="insert()">
 
 <body style="background:url('https://ceparisien.goodbarber.com/docs/Plugin1/fond.jpg') no-repeat; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; background-origin: border-box; -webkit-background-origin: border-box; -moz-background-origin: border-box; margin:0; padding:0; min-height: 100%;">
 
